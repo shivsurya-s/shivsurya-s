@@ -1,5 +1,6 @@
 ### Shivsurya S
 
+![](https://komarev.com/ghpvc/?username=shivsurya-s&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-Shivsurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivsuryas/)](https://www.linkedin.com/in/shivsuryas/) 
 [![Gmail Badge](https://img.shields.io/badge/-shiva15surya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiva15surya@gmail.com)](mailto:shiva15surya@gmail.com)
 ---
