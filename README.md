@@ -5,7 +5,7 @@
 ---
 ### Hola Amigo👋
 ---
-I am Shivsurya a Grad Engineer in Data Science and Analytics. I'm a Data Analyst interested in understanding and transfigure raw numerical data into appealing charts👨🏻‍🎓. 
+I'm Shivsurya a Grad Engineer in Data Science and Analytics. I'm a Data Analyst interested in understanding and transfigure raw numerical data into appealing charts👨🏻‍🎓. 
 
 ```
 
